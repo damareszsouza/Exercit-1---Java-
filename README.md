@@ -1,4 +1,4 @@
-# Exercit-1-Java-
+# Exercicio 1-Java-
 Maior dos 3 numeros
 
 # Este código ajudara a encontrar o maior dos três numeros fornecidos
